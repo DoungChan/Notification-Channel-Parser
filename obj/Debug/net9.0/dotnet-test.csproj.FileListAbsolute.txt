@@ -1,0 +1,14 @@
+/Users/doungchansroeun/dotnet-test/bin/Debug/net9.0/dotnet-test
+/Users/doungchansroeun/dotnet-test/bin/Debug/net9.0/dotnet-test.deps.json
+/Users/doungchansroeun/dotnet-test/bin/Debug/net9.0/dotnet-test.runtimeconfig.json
+/Users/doungchansroeun/dotnet-test/bin/Debug/net9.0/dotnet-test.dll
+/Users/doungchansroeun/dotnet-test/bin/Debug/net9.0/dotnet-test.pdb
+/Users/doungchansroeun/dotnet-test/obj/Debug/net9.0/dotnet-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doungchansroeun/dotnet-test/obj/Debug/net9.0/dotnet-test.AssemblyInfoInputs.cache
+/Users/doungchansroeun/dotnet-test/obj/Debug/net9.0/dotnet-test.AssemblyInfo.cs
+/Users/doungchansroeun/dotnet-test/obj/Debug/net9.0/dotnet-test.csproj.CoreCompileInputs.cache
+/Users/doungchansroeun/dotnet-test/obj/Debug/net9.0/dotnet-test.dll
+/Users/doungchansroeun/dotnet-test/obj/Debug/net9.0/refint/dotnet-test.dll
+/Users/doungchansroeun/dotnet-test/obj/Debug/net9.0/dotnet-test.pdb
+/Users/doungchansroeun/dotnet-test/obj/Debug/net9.0/dotnet-test.genruntimeconfig.cache
+/Users/doungchansroeun/dotnet-test/obj/Debug/net9.0/ref/dotnet-test.dll
